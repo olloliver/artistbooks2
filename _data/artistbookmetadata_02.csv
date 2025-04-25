@@ -1,0 +1,103 @@
+objectid,file_name,parentid,artist,title,place_of_creation,year_produced,edition_size,dimensions,expanded_dimensions,description ,genre,process_technique,materials,structure_physical_format,enclosure,subject,use,holding_collection ,format,file_size,file_date,rights,display_template,image_small ,image_thumb
+hex0001,hex0001.png,,"Oliver, ""Ollie"", Lily",Hex,"Center for the Book, Iowa City, IA",2024,one-of-a-kind,"5 x 5x 0.75"" ","5 x 5 x 6.75""","A thirty page book made of five pamphlets sewn into an accordion. Can be tied into 
+a codex form or opened to the full accordion length. The first three page burnouts 
+spell the word 'HEX'. Burn images were made by tracing the outline of the shape
+with water and then burning out the inside. ",wordless/ visual ,Water manipulation; burning,found object; thread; handmade paper; papermaking fiber: paper mulberry (kozo/dak),Accordian ,,,artistic work,,image/png,5.6 MB,2025-04-01,CC BY-NC,multiple,/objects/small/hex0001.png,/objects/thumbs/hex0001.png
+hex0002,hex0002.png,hex0001,,,,,,,,,,,,,,,,,image/png,5.5 MB,2025-04-01,,image,,
+hex0003,hex0003.png,hex0001,,,,,,,,,,,,,,,,,image/png,5.6 MB,2025-04-01,,image,,
+intimacy0001,intimacy0001.png,,"Oliver, ""Ollie"", Lily",Intimacy ,"Center for the Book, Iowa City, IA",2024,one-of-a-kind,"3 x 2.75""",,"A six page pamphlet printed on transparent mylar. Each page is the progression of 
+an edit of a single poem-- having the finished poem on the last page. The text is 
+aligned so that looking through the cover of the book, words that appear throughout
+all five iterations of the poem are the most opaque.",poetry ,digital printing,plastics; thread,pamphlet,,queer intimacy; poetry; wlw; LGBTQIA,artistic work,,image/png,5.4 MB,2025-04-01,CC BY-NC,multiple,/objects/small/intimacy0001.png,/objects/thumbs/intimacy0001.png
+intimacy0002,intimacy0002.png,intimacy0001,,,,,,,,,,,,,,,,,image/png,5.5 MB,2025-04-01,,image,,
+kendall0001,kendall0001.png,,"Oliver, ""Ollie"", Lily",Kendall Journal ,"Center for the Book, Iowa City, IA",2024,one-of-a-kind,"6 x 8 x 0.5""",,"A blank journal made as a structural demo of a slotted tape binding. The slotted tape
+binding is a contemporary adaption of historical paper case bindings. Decorative 
+touches have been added by constructing the tapes out of photo prints and weaving
+them through the cover. The title comes from the name of the street pictured in the 
+weaving. ",blank journal ,collage; digital printing; photography,handmade paper; machine-made paper; mixed media; thread,soft cover; slotted tape ,,,Book Model ,,image/png,5.7 MB,2025-04-01,CC BY-NC,multiple,/objects/small/kendall0001.png,/objects/thumbs/kendall0001.png
+kendall0002,kendall0002.png,kendall0001,,,,,,,,,,,,,,,,,image/png,5.5 MB,2025-04-01,,image,,
+link0001,link0001.png,,"Oliver, ""Ollie"", Lily",Link & Page Journal ,"Center for the Book, Iowa City, IA",2025,one-of-a-kind,"5 x 6 x 1""",,"A blank journal reverse engineered from a structure by Shannon Mou of Link & 
+Page. Outside signatures are covered with a cloth guard and sewn long stitch over
+tapes. Then, additional holes are punched and the signatures are then sewn in the 
+french-web style. To finish, boards are covered and then attached to the cloth guards.",blank journal ,,binders board; decorative paper; machine-made paper; beads; thread,compound structure; exposed sewing; hard cover; web-stitch/french sewn,,,Book Model ,,image/png,5.6 MB,2025-04-01,CC BY-NC,multiple,/objects/small/link0001.png,/objects/thumbs/link0001.png
+link0002,link0002.png,link0001,,,,,,,,,,,,,,,,,image/png,5.6 MB,2025-04-01,,image,,
+smudge0001,smudge0001.png,,"Oliver, ""Ollie"", Lily",Smudge,"Center for the Book, Iowa City, IA",2024,open edition,"2.75 x 4.25""",,"A ten page zine made of cut and collaged photos of the artist's cat, Smudge. Done 
+in various hand lettered fonts, the book lists Smudge's nicknames, from ""wittle miss 
+white wips"" to ""portrait of decadence"" with corresponding personality pictures. ",zine,digital printing; collage; handlettering/ handwritten; ,machine-made paper; metal ,stapled,,cats; names; nicknames,Artistic work,,image/png,5.4 MB,2025-04-01,CC BY-NC,multiple,/objects/small/smudge0001.png,/objects/thumbs/smudge0001.png
+smudge0002,smudge0002.png,smudge0001,,,,,,,,,,,,,,,,,image/png,5.5 MB,2025-04-01,,image,,
+red0001,red0001.png,,"Oliver, ""Ollie"", Lily",Red Journal ,"Center for the Book, Iowa City, IA",2024,one-of-a-kind,"3.75 x 4 x 0.5""",,"A seven signature blank journal made as a structural demo of a link stitch. Signatures
+have cloth guards and is bound with a soft cover. ",blank journal ,,fabric; machine-made paper; thread ,link stitch; soft cover; exposed sewing,,,Book Model ,,image/png,5.5 MB,2025-04-01,CC BY-NC,multiple,/objects/small/red0001.png,/objects/thumbs/red0001.png
+red0002,red0002.png,red0001,,,,,,,,,,,,,,,,,image/png,5.5 MB,2025-04-01,,image,,
+tattoo0001,tattoo0001.png,,"Oliver, ""Ollie"", Lily",Tattoo Book Deluxe ,"Center for the Book, Iowa City, IA",2025,open edition,"4.75 x 5.25 x 2"" ",,"A twenty-two page photo album of the artist's tattoos, captured on a flatbed scanner.
+Each photo frame includes stylized and distorted text, naming the tattoo, the year 
+inked, and the general location of the appointment. From the artist's statement: I was 
+interested in documenting the body’s current state, especially through a process 
+that simultaneously objectifies and abstracts it. I liked the implications of the flatbed 
+scanner as well, using it to copy and document the information of the body. The 
+kerning has been adjusted to transition the text from individual characters towards 
+more asemic expressions to be viewed as imagery, rather than text. My intention for 
+this project was to further develop the ideas of objectification through image making, 
+the obscurity of information, and “sterile” data collection of organic information.",photo bookwork,digital printing; laser cutting/ CNC cutting; photography; ,binders board; book cloth; found object; machine-made paper; metal ,album; hard cover; spiral/ comb binding,,tattoos; photography; documentation; female body,Artistic work,,image/png,5.5 MB,2025-04-01,CC BY-NC,multiple,/objects/small/tattoo0001.png,/objects/thumbs/tattoo0001.png
+tattoo0002,tattoo0002.png,tattoo0001,,,,,,,,,,,,,,,,,image/png,5.7 MB,2025-04-01,,image,,
+sweatshirt0001,sweatshirt0001.png,,"Oliver, ""Ollie"", Lily",To All The Thrifted Sweatshirts We Cut Too Short!,"School of the Musuem of Fine Art, Boston, MA",2019,one-of-a-kind,"2 x 1.75 x 0.25""",,"A five page book illustrated with ink and paint. Pages are bound back to back with
+adhesive. Comes with slipcase wrapped in sweatshirt fabric. ",comic,drawing; paper cutting; ,ink; fabric; machine-made paper; paint; ,miniature book,slipcase,clothing; alteration ,artistic work,,image/png,5.4 MB,2025-04-01,CC BY-NC,multiple,/objects/small/sweatshirt0001.png,/objects/thumbs/sweatshirt0001.png
+sweatshirt0002,sweatshirt0002.png,sweatshirt0001,,,,,,,,,,,,,,,,,image/png,5.4 MB,2025-04-01,,image,,
+cloud0001,cloud0001.png,,"Oliver, ""Ollie"", Lily",Cloud Journal ,"Somerville, MA",2021,open edition,"5.5 x 8.25 x 0.75""",,"A blank journal made to test the quilting qualities of kozo. The cover is comprised of
+batting sandwiched between kozo and a thicker western sheet, sewn with a sewing
+machine.",blank journal ,,handmade paper; machine-made paper; thread; batting,exposed sewing; pamphlet; soft cover ,,,book model ,,image/png,5.6 MB,2025-04-01,CC BY-NC,multiple,/objects/small/cloud0001.png,/objects/thumbs/cloud0001.png
+cloud0002,cloud0002.png,cloud0001,,,,,,,,,,,,,,,,,image/png,5.6 MB,2025-04-01,,image,,
+characters0001,characters0001.png,,"Oliver, ""Ollie"", Lily",Characters,"School of the Musuem of Fine Art, Boston, MA",2021,30,"5.5 x 8 x 0.75"" ",,"A twenty-four page photobook, printed on matte paper and bound with binder rings.
+Includes character ""index"" on the last page. From the artist's statement: Started in 
+spring of 2020, Characters, an ongoing series where I disguise myself as different 
+exaggerated forms of my own identity, allows me to explore and catalog different 
+aspects of my own gender and sexuality— posing as everyone from the brother 
+I’ve never had, or could be, to a fisher, to a sort of disgraced Mary, ultimate symbol 
+of maternity and innocence.
+
+ 
+
+The creation of these characters has also become part of the work, as I shoot 
+myself getting into character, and secretly make the images in my childhood home. 
+Partial or incomplete costumes are essential, as the recognition of self is crucial in 
+emphasizing the performance and indulgence of the photo and character— 
+while also giving a nod to others in rural or inaccessible areas that must make 
+due with what they’ve got to express themselves. The posturing and physicality 
+that possesses me as I complete these disguises continues to be of interest and 
+I consider this series to be limitless. 
+
+",photo bookwork ,digital printing; photography ,machine-made paper; metal ,loose sheets; soft cover,,gender identity; sexuality; performance; drag; photography; portraits; self portrait,artistic work ,,image/png,5.5 MB,2025-04-01,CC BY-NC,multiple,/objects/small/characters0001.png,/objects/thumbs/characters0001.png
+characters0002,characters0002.png,characters0001,,,,,,,,,,,,,,,,,image/png,5.5 MB,2025-04-01,,image,,
+roof0001,roof0001.png,,"Oliver, ""Ollie"", Lily",My Body A Roof,"The Burren College of Art, Ballyvaughan, IR",2019,one-of-kind,"6 x 8.5 x 0.25""",,"An eleven page artist book comprised of diaristic text, distorted images, and 
+pop up structures, chronicaling the artist's experience of a ""meltdown"" over 
+the duration of twenty-four hours. From the artist's statement: The images in My 
+Body a Roof, reflect moments of ""hysteria"" in the private sanctuaries of everyday 
+life, the home, the bedroom, the shower...to trace an episode of ""hysteria,"" I seek 
+to portray the alientation and simultaneous sanctuary that women often feel from 
+their own bodies during moments of emotional duress. ",photo bookwork; poetry ,digital printing; paper cutting; photography ,machine-made paper,compound structure; pop-up; soft cover ,,religion; architecture; mental health; hysteria; women ,artistic work ,,image/png,5.4 MB,2025-04-01,CC BY-NC,multiple,/objects/small/roof0001.png,/objects/thumbs/roof0001.png
+roof0002,roof0002.png,roof0001,,,,,,,,,,,,,,,,,image/png,5.5 MB,2025-04-01,,image,,
+roof0003,roof0003.png,roof0001,,,,,,,,,,,,,,,,,image/png,5.8 MB,2025-04-01,,image,,
+film0001,film0001.png,,"Oliver, ""Ollie"", Lily",Quarantine Film: Irish Studies ,"School of the Musuem of Fine Art, Boston, MA",2021,one-of-a-kind,"6 x 8.5 x .075""","136 x 8.5""","Accordion of film photos taken by the artist ranging from 2019 in Ireland, to 2020 
+in Maine, Massachusetts, and New Hampshire. Photos are printed on vellum and 
+inserted into the structure via cutouts--allowing the prints to be backlit, as a nod 
+to the translucency of film negatives. The final pages of the book are designed as 
+a wrapper, keeping the entire text block contained. ",photo bookwork; wordless/ visual ,digital printing; photography; paper cutting,machine-made paper; plastics,accordion ,wrapper,film photography; photography; portrait; landscape,artistic work ,,image/png,5.5 MB,2025-04-01,CC BY-NC,multiple,/objects/small/film0001.png,/objects/thumbs/film0001.png
+film0002,film0002.png,film0001,,,,,,,,,,,,,,,,,image/png,5.7 MB,2025-04-01,,image,,
+film0003,film0003.png,film0001,,,,,,,,,,,,,,,,,image/png,5.7 MB,2025-04-01,,image,,
+rounded0001,rounded0001.png,,"Oliver, ""Ollie"", Lily",Rounded Case Journal ,"Center for the Book, Iowa City, IA",2025,one-of-a-kind,"5.25 x 6.5 x 0.75""",,A multi-signature blank journal made as a structural demo of a rounded case. ,blank journal ,debossing ,binders board; decorative paper; machine-made paper; handmade paper; thread ,cased binding; endbands; hard cover; lapped; long stitch ,,,book model ,,image/png,5.6 MB,2025-04-01,CC BY-NC,multiple,/objects/small/rounded0001.png,/objects/thumbs/rounded0001.png
+rounded0002,rounded0002.png,rounded0001,,,,,,,,,,,,,,,,,image/png,5.6 MB,2025-04-01,,image,,
+lapped0001,lapped0001.png,,"Oliver, ""Ollie"", Lily",Lapped Case Journal ,"Center for the Book, Iowa City, IA",2025,one-of-a-kind,"5 x 6.75 x 0.5""",,"A multi-signature blank journal made as a structural demo of a lapped case. Inset 
+image on the front was gold foiled by the artist. ",blank journal ,debossing; hot stamping,binders board; decorative paper; machine-made paper; handmade paper; gold foil; thread,cased binding; endbands; hard cover; lapped; web-stitch/french sewn ,,,book model ,,image/png,5.7 MB,2025-04-01,CC BY-NC,multiple,/objects/small/lapped0001.png,/objects/thumbs/lapped0001.png
+lapped0002,lapped0002.png,lapped0001,,,,,,,,,,,,,,,,,image/png,5.6 MB,2025-04-01,,image,,
+memoryhouse0001,memoryhouse0001.png,,"Oliver, ""Ollie"", Lily","Body, Memory House: Basement Version ","Somerville, MA",2021,one-of-a-kind,"11 x 8.5 x 2""",,"An artist book rendition of Oliver's debut chapbook Body, Memory House, made of 
+loose sheets printed on frosted vellum and bound with magnets. The text is laid out 
+spatially over house blue prints, each paragraph corresponding with the room in
+which it is set. The first page is a key, providing additional details on certain 
+characters and illustrations. From the artist's statement: The text follows the narrator 
+through a psychedelic house, confronting a different relationship in each room 
+that must be revisited. Body, Memory House articulates the various nuances of 
+relationships and hyper-sexuality as a result of trauma, organized in a way which 
+mimics the conscious examination of trauma as a means to move past it.
+
+​",multiple-genre,digital printing,book cloth; machine-made paper; magnets; plastics ,hard cover; loose sheets,clamshell,architecture; poetry; autofiction; intimacy; friendship; sexual abuse; queer romance; ,artistic work ,"SMFA Special Collections, School of the Museum of Fine Arts, Tufts University ",image/png,712 KB,2025-04-01,CC BY-NC,multiple,/objects/small/memoryhouse0001.png,/objects/thumbs/memoryhouse0001.png
+memoryhouse0002,memoryhouse0002.png,memoryhouse0001,,,,,,,,,,,,,,,,,image/png,657 KB,2025-04-01,,image,,
+memoryhouse0003,memoryhouse0003.png,memoryhouse0001,,,,,,,,,,,,,,,,,image/png,662 KB,2025-04-01,,image,,
