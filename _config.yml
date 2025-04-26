@@ -22,10 +22,11 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
 # title of site appears in banner
 title: Lily Oliver Artist Books  
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: a template for creating simple digital exhibits
+tagline: A searchable collection of artist books created by Lily 'Ollie' Oliver
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: A searchable collection of artist books created by Lily 'Ollie' Oliver 
+description: Lily Oliver, ‘Ollie’,  born and raised in coastal Maine, works primarily in photography, creative writing, and bookmaking. Exploring intimacy,identity and navigating the body as site, her work often presents severity and softness in equal measure. Ollie graduated from The School of the Musuem of Fine Arts at Tufts in 2021, with a BFA in studio art.  Since then, she has begun her career in librarianship and in 2022, published their debut chapbook Body, Memory House (Gingerbug Press). Currently, she is an Iowa Arts Fellow, MFA candidate at the University of Iowa Center for the Book and MA candidate at the University of Iowa School of Library and Information Science. Ollie works out of Iowa City, seeking large bodies of water whenever possible and spoiling her cat, Smudge.
+
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: Lily 'Ollie' Oliver 
 
